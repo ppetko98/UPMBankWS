@@ -7,6 +7,7 @@ Files included in main repository:
 * Java Web Services Artifact (.aar)
 * Skeleton file (.java)
 * Services descriptor file (.xml)
+* Project statement: PracticaSW2020_v2.pdf
 
 
 Authors:
