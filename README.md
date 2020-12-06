@@ -1,10 +1,13 @@
 # UPMBankWS
 ###### UPMBank Web Services Project for System oriented services subject (Sistemas Orientados a Servicios) @ UPM
 
-Java Web Services project
+Java Web Services project (WSDL)
+
 Files included in main repository:
 * Java Web Services Artifact (.aar)
-* Skeleton file
+* Skeleton file (.java)
+* Services descriptor file (.xml)
+
 
 Authors:
 * Petko Vladimirov Stoyanov
